@@ -1,6 +1,8 @@
-# Customer Churn Analysis and Retention Strategies with Power BI
+# <p align ="center"> Customer Churn Analysis and Retention Strategies with Power BI #PWC
 
-![Power BI Logo](insert_power_bi_logo_image_link_here)
+# <p align ="center">![Pic](https://github.com/Pandat-0052/Customer-Churn-Analysis-and-Retention-Strategies-using-Power-BI-PWC/blob/main/Churn%201.JPG)</p>
+# <p align ="center">![Pic](https://github.com/Pandat-0052/Customer-Churn-Analysis-and-Retention-Strategies-using-Power-BI-PWC/blob/main/Churn%202.JPG)</p>
+# <p align ="center">![Pic](https://github.com/Pandat-0052/Customer-Churn-Analysis-and-Retention-Strategies-using-Power-BI-PWC/blob/main/Churn%203%20filter.JPG)</p>
 
 ## Overview
 This Power BI project focuses on analyzing customer churn patterns and developing effective retention strategies based on data-driven insights. By leveraging Power BI's visualization capabilities and analytical tools, we aim to enhance customer retention rates and improve overall business performance.
@@ -74,21 +76,18 @@ Based on these findings, here are some suggestions and actionable insights:
 
 ## Usage
 1. Download and install Power BI Desktop from the [Microsoft website](https://powerbi.microsoft.com/).
-2. Open the Power BI project file (`customer_churn_analysis.pbix`) in Power BI Desktop.
+2. Open the Power BI project file [`customer_churn_analysis.pbix`](https://github.com/Pandat-0052/Customer-Churn-Analysis-and-Retention-Strategies-using-Power-BI-PWC/blob/main/Emploee_Retention/Churn.pbix) in Power BI Desktop.
 3. Explore the interactive dashboards and visualizations to gain insights into churn patterns and customer behavior.
 
 ## Project Structure
-- `customer_churn_analysis.pbix`: Power BI project file containing data models and visualizations.
-- `data/`: Folder containing dataset files used for analysis.
-- `images/`: Folder for storing images used in the README or Power BI reports.
+- [`customer_churn_analysis.pbix`](https://github.com/Pandat-0052/Customer-Churn-Analysis-and-Retention-Strategies-using-Power-BI-PWC/blob/main/Emploee_Retention/Churn.pbix): Power BI project file containing data models and visualizations.
+- [`data/`](https://github.com/Pandat-0052/Customer-Churn-Analysis-and-Retention-Strategies-using-Power-BI-PWC/blob/main/Churn-Raw%20Data.xlsx): Folder containing dataset files used for analysis.
+- [`images/`](https://github.com/Pandat-0052/Customer-Churn-Analysis-and-Retention-Strategies-using-Power-BI-PWC/blob/main/Churn%201.JPG): Folder for storing images used in the README or Power BI reports.
 
 ## Contributors
-- [Your Name](insert_link_to_profile)
-- [Additional Contributors](insert_link_to_profiles)
+- [Aaksh Sharma](https://github.com/Pandat-0052)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-- Data sourced from [XYZ Corporation](https://www.xyzcorp.com).
-- Inspired by [Power BI Mastery](https://www.powerbimastery.net).
+- Data sourced from [PWC]
+
